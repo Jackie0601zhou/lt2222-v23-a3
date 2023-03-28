@@ -1,6 +1,5 @@
 # LT2222 V23 Assignment 3
 
-# LT2222 V23 Assignment 3
 
 Part1:
 To run the `a3_features.py` script, use the following command:
